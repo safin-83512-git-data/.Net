@@ -1,0 +1,14 @@
+C:\Users\Expert\Desktop\.net practice\Assignments\bin\Debug\net6.0\Assignments.exe
+C:\Users\Expert\Desktop\.net practice\Assignments\bin\Debug\net6.0\Assignments.deps.json
+C:\Users\Expert\Desktop\.net practice\Assignments\bin\Debug\net6.0\Assignments.runtimeconfig.json
+C:\Users\Expert\Desktop\.net practice\Assignments\bin\Debug\net6.0\Assignments.dll
+C:\Users\Expert\Desktop\.net practice\Assignments\bin\Debug\net6.0\Assignments.pdb
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.AssemblyInfo.cs
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.dll
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\refint\Assignments.dll
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.pdb
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\Assignments.genruntimeconfig.cache
+C:\Users\Expert\Desktop\.net practice\Assignments\obj\Debug\net6.0\ref\Assignments.dll
