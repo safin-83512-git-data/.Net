@@ -1,0 +1,4 @@
+C:\Users\Expert\Desktop\.net practice\Assignment9\obj\Debug\net6.0\Assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Expert\Desktop\.net practice\Assignment9\obj\Debug\net6.0\Assignment9.AssemblyInfoInputs.cache
+C:\Users\Expert\Desktop\.net practice\Assignment9\obj\Debug\net6.0\Assignment9.AssemblyInfo.cs
+C:\Users\Expert\Desktop\.net practice\Assignment9\obj\Debug\net6.0\Assignment9.csproj.CoreCompileInputs.cache
